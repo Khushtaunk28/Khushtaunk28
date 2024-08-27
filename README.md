@@ -2,7 +2,7 @@
 - SpringBoot Developer(Backend Expert)
 - 👀 I’m interested in fintech technologies.
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking t
+- 💞️ I’m looking to collaborate on Fintech-related Projects.
 - 📫 How to reach me khush.taunk@gmail.com
 
 <!---
