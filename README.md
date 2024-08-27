@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Khush_taunk
-- 👀 I’m interested in fintech technologies 
+- SpringBoot Developer(Backend Expert)
+- 👀 I’m interested in fintech technologies.
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on algotrading 
+- 💞️ I’m looking t
 - 📫 How to reach me khush.taunk@gmail.com
 
 <!---
